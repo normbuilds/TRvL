@@ -1,0 +1,34 @@
+<mjml>
+  <mj-body>
+      <mj-section background-color=" #0e19eb">
+      <!-- header start -->
+      <mj-column width="200" >
+        <mj-image 
+ width="200px"   
+src="https://i.ibb.co/sWF7rQz/trvl-logo-white.png" alt="" />
+      </mj-column>
+      
+    </mj-section>
+    <!-- end header -->
+    <!-- start of subheader -->
+    <mj-section background-color=" #09119e">
+  <mj-navbar>
+    <mj-navbar-link color="#ffff" href="#">
+     Flights
+  </mj-navbar-link>
+    <mj-navbar-link color="#ffff" href="#">
+    
+      <mj-text>Cars</mj-text>
+    </mj-navbar-link>
+    <mj-navbar-link color="#ffff"  href="#">
+      <mj-image src="https://i.ibb.co/QngN0rQ/bed-white.png" />
+       <mj-text>Hotels</mj-text>
+    </mj-navbar-link>
+    <mj-navbar-link color="#ffff" href="#">
+      <mj-image src="https://i.ibb.co/25NyBF6/vacation-white.png" />
+       <mj-text>Packages</mj-text>
+    </mj-navbar-link>
+  </mj-navbar>
+</mj-section>
+
+</mjml>
